@@ -1,6 +1,6 @@
 # Routine Sync 🚀
 > A modern, full-stack BCA Academic & Productivity Tracker built to help students seamlessly balance academics, fitness, and skill-building.
-
+https://routine-sync-89760007502.asia-southeast1.run.app/
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-v20+-green)
@@ -32,5 +32,4 @@ To run Routine Sync on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/routine-sync.git](https://github.com/YOUR_USERNAME/routine-sync.git)
-   cd routine-sync
+   https://routine-sync-89760007502.asia-southeast1.run.app/
